@@ -16,15 +16,16 @@
 # 锐速破解版卸载方法：
     chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
-——————————————————————————————————————————
+—————————————————————————————————————
 # 锐速破解版安装方法（旧版本代码）：
 
 第一步安装SS或V2ray
 
-——————————————————————————————————————————
+—————————————————————————————————————
 第二步 更换内核 然后重启
+CentOS7
 
-CentOS7   rpm -ivh http://soft.91yun.org/ISO/Linux/CentOS/kernel/kernel-3.10.0-229.1.2.el7.x86_64.rpm --force
+rpm -ivh http://soft.91yun.org/ISO/Linux/CentOS/kernel/kernel-3.10.0-229.1.2.el7.x86_64.rpm --force
 
 ——————————————————————————————————————
 第三步   安装旧的代码  然后选择 1
