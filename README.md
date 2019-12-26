@@ -23,6 +23,12 @@
 # 锐速破解版卸载方法：
     chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
+————————————————————————————————————————————————————————————————————————
+# 锐速破解版安装方法（旧版本代码）：
+
+安装旧的代码  然后选择 1
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+————————————————————————————————————————————————————————————————————————
 
 锐速破解版功能：
 如果内核完全匹配就会自动下载安装。
